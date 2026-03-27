@@ -25,7 +25,7 @@
 
 class AmarBorse:
     """
-    MCA Student | Python Developer | Data Analyst | UI/UX Enthusiast
+    Python Developer 
     """
     def __init__(self):
         self.name         = "Amar Borse"
