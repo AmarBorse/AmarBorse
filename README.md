@@ -23,36 +23,41 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-class AmarBorse:
-    """
-    Python Developer 
-    """
-    def __init__(self):
-        self.name         = "Amar Borse"
-        self.pronouns     = "he/him"
-        self.location     = "Pune, Maharashtra, India 🇮🇳"
-        self.education    = "MCA @ Pimpri Chinchwad University (2024–2026)"
-        self.roll_no      = "MCA24216"
+I am a Python Developer focused on building AI-powered web applications using Streamlit.
 
-        self.skills       = {
-            "languages"   : ["Python 🐍", "SQL", "HTML5", "CSS3", "JavaScript"],
-            "frameworks"  : ["Streamlit", "Pandas", "Plotly", "TextBlob", "NLTK"],
-            "databases"   : ["MySQL"],
-            "tools"       : ["Git", "GitHub", "VS Code", "Figma"],
-            "concepts"    : ["NLP", "Sentiment Analysis", "Role-Based Access",
-                             "Data Analytics", "DevOps", "Blockchain Basics"]
-        }
+Currently pursuing MCA at Pimpri Chinchwad University, I develop real-world systems that solve practical problems through automation and intelligent design.
 
-        self.currently    = "🏗️  Building Intelligent Event Management Systems"
-        self.learning     = "☁️  DevOps | 🔐 Cryptography & Blockchain"
-        self.next_project = "🌊  InternFlow — AI-powered Internship Platform"
-        self.fun_fact     = "I make data tell stories that humans actually care about 📖"
+I have hands-on experience in:
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+Building AI-powered web applications
+Developing backend logic using Python
+Working with databases (MySQL)
+Creating scalable and user-focused systems
 
-me = AmarBorse()
-me.say_hi()
+🔭 Currently working on:
+Intelligent Event Management System
+
+🚀 Upcoming Project:
+AI-powered Internship Platform (InternFlow)
+
+💡 I focus on building systems that are practical, scalable, and impactful.
+
+🛠 Skills Section (Refined)
+
+Languages:
+Python, JavaScript, HTML, CSS
+
+Frameworks & Libraries:
+Streamlit, Pandas
+
+Tools:
+Git, GitHub, VS Code, Figma
+
+Concepts:
+AI Systems, NLP Basics, Role-Based Access Control, DevOps Basics
+
+Databases:
+MySQL
 ```
 
 ---
