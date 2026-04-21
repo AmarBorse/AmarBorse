@@ -57,7 +57,7 @@ Concepts:
 AI Systems, NLP Basics, Role-Based Access Control, DevOps Basics
 
 Databases:
-MySQL
+MySQL,supabase
 
 ```
 
