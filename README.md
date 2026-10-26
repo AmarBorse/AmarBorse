@@ -158,14 +158,6 @@ MySQL,supabase
 > `Python` · `Streamlit` · `Pandas` · `Plotly` · `MySQL`
 
 ---
-
-## 🌱 What I'm Building Next
-
-```
-🌊  InternFlow — AI-Powered Internship Platform
-├── 🤖  Aria (AI Mentor Chatbot) — Powered by Claude API
-├── 💰  Salary Slip Generator — Auto PDF payslips
-└── 📝  Daily Feedback Logger — Track intern progress
 ```
 
 ---
